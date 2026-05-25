@@ -16,7 +16,7 @@ body {
   align-items: center;
   min-height: 100vh;
   padding: 24px;
-  background: linear-gradient(45deg, #ff7e5f 0%, #764ba2 100%);
+  background: linear-gradient(45deg, hsl(0, 100%, 70%), hsl(240, 100%, 70%));
 }
 
 .welcome-card {
@@ -24,7 +24,7 @@ body {
   max-width: 600px;
   padding: 40px 48px;
   border-radius: 12px;
-  background-color: rgba(255, 255, 255, 0.65);
+  background-color: hsla(0, 50%, 100%, 0.5);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
   text-align: center;
   color: #1a1a1a;
